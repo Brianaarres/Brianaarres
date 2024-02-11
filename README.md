@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brianaarres
 - 👀 I’m interested in developing the skill set to become a successful and welll rounded analyst
-- 🌱 I’m currently learning the basics about cybersecurity through the Google Cybersecurity certifcation program
+- 🌱 I’m currently learning the basics about Data Science through Data Science at Code Academy
 - 💞️ I’m looking to collaborate on new projects to demonstrate what I have learned
 - 📫 How to reach me b.arres@yahoo.com 
 - 
